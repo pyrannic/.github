@@ -1,12 +1,10 @@
 ## About Pyrannic
 
-Pyrannic is an opinionated web application framework built over the shoulders of [FastAPI](https://github.com/fastapi/fastapi), [Pydantic](https://github.com/pydantic/pydantic) and [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy/).
-It takes these awesome tools to build a little layer over them, inspired in the arquitecture of [Laravel](https://github.com/laravel/framework) and its expressive and elegant syntax.
-With this in mind it provides, out of the box, several common tasks used in many projects, such as:
+Built on top of [FastAPI](https://github.com/fastapi/fastapi), [Pydantic](https://github.com/pydantic/pydantic), and [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy/), Pyrannic operates as an opinionated web application framework. It provides a streamlined layer over these powerful tools, drawing architectural inspiration from [Laravel's](https://github.com/laravel/framework) expressive and elegant syntax. Out of the box, Pyrannic simplifies backend development by pre-configuring several standard features required for most projects, including:
 
-- [Opinionated folder structured](https://pyrannic.github.io/get-started) for your application.
-- An easy and fast approach to [configure your application](https://pyrannic.github.io/configuration).
-- A modular [bootstrapping system](https://pyrannic.github.io/bootstrap).
-- A dependency injection [custom container](https://pyrannic.github.io/container) to allow some fancy things.
-- An intuitive and easy to use [database ORM](https://pyrannic.github.io/database/orm)
-- API [resources](https://pyrannic.github.io/resources) and collections with [pagination](https://pyrannic.github.io/resources#pagination)
+- An opinionated and well-structured [application folder layout](https://pyrannic.github.io/framework/directory-structure/).
+- A quick and straightforward approach to [application configuration](https://pyrannic.github.io/framework/configuration/).
+- A modular [bootstrapping system](https://pyrannic.github.io/framework/bootstrap/).
+- A custom [dependency injection container](https://pyrannic.github.io/framework/ioc-container/) designed for advanced capabilities.
+- An intuitive and easy-to-use [database ORM](https://pyrannic.github.io/framework/database/getting-started/).
+- API [collections](https://pyrannic.github.io/framework/collections/) and [resources](https://pyrannic.github.io/framework/resources/) featuring built-in [pagination](https://pyrannic.github.io/framework/pagination/).
