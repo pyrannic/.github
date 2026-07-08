@@ -8,3 +8,7 @@ Built on top of [FastAPI](https://github.com/fastapi/fastapi), [Pydantic](https:
 - A custom [dependency injection container](https://pyrannic.github.io/framework/ioc-container/) designed for advanced capabilities.
 - An intuitive and easy-to-use [database ORM](https://pyrannic.github.io/framework/database/getting-started/).
 - API [collections](https://pyrannic.github.io/framework/collections/) and [resources](https://pyrannic.github.io/framework/resources/) featuring built-in [pagination](https://pyrannic.github.io/framework/pagination/).
+
+## Learning Pyrannic
+
+The Pyrannic framework is extensively detailed, offering a highly comprehensive and thorough resource for users. Complete information, guides, and reference materials can be found by reviewing the official [documentation](https://pyrannic.github.io/framework)
